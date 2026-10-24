@@ -1,0 +1,11 @@
+{
+  "name": "genpark-self-correcting-code-patch-and-stacktrace-repair-skill",
+  "version": "1.0.0",
+  "description": "Parses runtime error tracebacks and synthesizes minimal defensive boundary check patches",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
